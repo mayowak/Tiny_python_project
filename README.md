@@ -7,3 +7,5 @@ This repository contains codes from the "Tiny Python Projects" Book by Ken Youen
 - [x] Chapter 3: [Picnic:Working with lists](https://github.com/mayowak/Tiny_python_project/tree/main/03_picnic)
 - [x] chapter 4: [jump the five:Working with dictionaries](https://github.com/mayowak/Tiny_python_project/tree/main/03_picnic)
 - [x] chapter 5: [howler:working with files and STDOUT](https://github.com/mayowak/Tiny_python_project/tree/main/05_howler)
+- [x] chapter 6: [Words count: Reading files and STDIN, iterating lists,formatting strings](https://github.com/mayowak/Tiny_python_project/tree/main/06_wc)
+- [x] chapter 7: [Gashlycrumb: Looking items up in a dictionary](https://github.com/mayowak/Tiny_python_project/tree/main/07_gashlycrumb)
